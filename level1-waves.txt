@@ -1,0 +1,15 @@
+level1-map.png
+#
+5,3 orc,
+#
+20,3 orc,
+24,3 orc,
+#
+44,2 armored,
+#
+60,1 armored,3 orc,
+66,1 armored,4 orc,
+#
+90,1 armored,4 orc,
+95,6 orc,
+101,1 armored,5 orc,
